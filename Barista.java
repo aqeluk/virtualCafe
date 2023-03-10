@@ -1,8 +1,8 @@
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
-import Helpers.Cafe;
-import Helpers.ThreadHandler;
+import helpers.Cafe;
+import helpers.ThreadHandler;
 
 public class Barista {
 
